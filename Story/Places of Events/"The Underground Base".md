@@ -16,5 +16,5 @@
 - [[Underground Level 6 - Prison]]
 - [[Underground Level 7 - Research Facility 1]]
 - [[Underground Level 8 - Research Facility 2]]
-- [[Underground Level 9 - Research Facility 3]]
+- [[Underground Level 9 - Armory]]
 - [[Underground Level 10 - Vault]]

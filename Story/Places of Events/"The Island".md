@@ -1,6 +1,6 @@
 ![["The Island".jpg]]
 
-[[Jonathan Avery]]### Placement
+[[Story/Characters/Protagonists/Jonathan Avery]]### Placement
 - **Country**: None
 - **Coordinates**: ~25.2°N, 71.0°W
 - **Location**: In the middle of [[Bermuda Triangle]].  

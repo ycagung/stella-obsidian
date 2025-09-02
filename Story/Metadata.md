@@ -1,4 +1,4 @@
-## The Fox Born from A Star
+## Star-Born Fox
 *Sci-fi, action, romance*
 
 ## Season 1
@@ -12,3 +12,9 @@
 	Jonathan fell in love at the first sight of Estelle's graceful swordsmanship. Ironically, his genius mind couldn't comprehend what was in his heart.
 4. **I Want a Raise!**
 	Living with Jonathan as his secret security forced her to see Jonathan's inner world in more ways than one. Time after time, she knows him better than anyone, and the real Jonathan made her fall in love for him.
+	
+
+### Secondary Conflicts
+1. **Samantha's Turmoil**
+2. **What Will Happen to The Jones?**
+3. 

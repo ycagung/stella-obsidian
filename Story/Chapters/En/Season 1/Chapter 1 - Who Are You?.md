@@ -3,48 +3,88 @@
 - **Characters**: [[Jonathan Avery]], [[Estella Renard]]
 - **Place of Event**: [[Milan Apartment]] 
 - **Plot Events**: 
-	- Jonathan meet Estella
-	- Jonathan shows his skill
-	- Estella shows her swordsmanship
+	- Jonathan met Estella
+	- Jonathan showed his skill
+	- Estella showed her swordsmanship
+- **Synopsis**:
+	*Jonathan and Estelle met for the first time, and already have to face a certain ambush.*
 
 ### Story
 
 ***Knock! Knock! Knock!***
-Jonathan heard loud knocks coming from his apartment door. Leaving his laptop, he rose up and opened the door. The door swung open, and a woman can be seen standing in front of him, wearing an open black suit, white shirt, and sleek black pants. Her wolf cut hair shone with -- ironicaly -- a dark blue color. 
+
+Jonathan heard loud knocks coming from his apartment door. Leaving his laptop, he rose up and opened the door. The door swung open, and a woman can be seen standing in front of him, wearing an open black suit, white shirt, and sleek black pants. Her wolf cut hair shone with — ironically — a dark blue color. 
+
 **“Who are you?”**, Jonathan asked, stood taller than her.
+
 Her gaze moved up, meeting his eyes. **“I'm your bodyguard for today. Mr. Jones has ordered me to move you to a safe place”**, her voice flat, expressionless.
-**“Come on in. Let's talk first”**, he opened the door and moved, welcoming her in. She walked gracefully into the living room, her cold and sharp eye examining Jonathan's living space. Her demeanor paired with a sword on her hip exudes confidence and 'don't mess with me' vibe.
+
+**“Come on in. Let's talk first”**, he opened the door and moved, welcoming her in. She walked gracefully into the living room, her cold, and sharp eye examining Jonathan's living space. Her demeanor paired with a sword on her hip exudes confidence and 'don't mess with me' vibe.
+
 **“Please sit down, I'll bring you some coffee”**, Jonathan gestured towards a coach. She then silently unbuckled her sword and sat down with her sheathed sword in her hand. A minute later, they were sitting across from each other with coffee in hand.
+
 **“I've never seen you before, are you new?”**, he asked, starting the conversation.
-**“I'm not. My name is Estella Renard, you can just call me Estella. I usually do other mission. Infiltration, disposal, information gathering things like that”**, she answered after sipping her coffee.
-**“I see. So what exactly did my father order you to do now?”**, she then gave Jonathan a phone she took from her suit. A video automatically played itself, Hensen and Martha Jones -- Jonathan's parent -- can be seen in the video. 
+
+**“I'm not. My name is Estella Renard, you can just call me Estella. I usually do other mission. Infiltration, disposal, information gathering, things like that”**, she answered after sipping her coffee.
+
+**“I see. So what exactly did my father order you to do now?”**, she then gave Jonathan a phone she took from her suit. A video automatically played itself, Hensen and Martha Jones — Jonathan's parent — can be seen in the video. 
+
 **“Look at them, saying this and that about danger to my life and I have to follow you to a safe place and whatnot. It's starting to sicken me out.”**, suddenly an alarm blared from Jonathan's laptop, loud. Jonathan immediately moved to his laptop and there can be seen multiple red dots on his monitor. Estelle's senses went to a state of alert after seeing the red dots on Jonathan's monitor.
+
 **“Is that reading real-time? Is it here?”**, she asked Jonathan. Jonathan nodded. She followed with, **“We have to move immediately, this is bad. I wasn't expecting this much interference”**.
+
 **“They are all armed. You're going to fight them with that? Will there be enough room in the hallway to swing your sword?”**, Jonathan moved closer to Estelle.
-Estelle didn't answer, instead she just took a standard Glock 17 from a holster inside of her suit, cocking it in front of me. **"Fine"**, I said, took a handgun from under my desk. It was a custom made -- by me -- handgun, 9 mm caliber, ported 5 inch barrel, 21+1 capacity in a double stack magazine.
-Estelle raised her eyebrow, **"Do you even know how to shoot? Your parent's file on you didn't show any combat or weapon training"**. 
-I took two Banish 45 suppressors from inside my and threw one at her, screwing the other one to my own gun. **"We don't have time for demonstrations and by looking at my surveilance network --the one on my laptop-- you should've known that my parents file was wrong"**.
-**"I guess you're right"**, Estella reattached her sword on her hip. Jonathan buckled his belt holstering his two handguns at the back. Both of them had finished their battle preparation, albeit short. The red dots shown on the laptop screen can be seen closing in their location, about 40 men strong.
-**"Okay, so here's the plan. The corridor is to small for them to advance at the same time ..."**, Jonathan explained the plain in his mind to Estella. The explanation finished with **"... Then we take the back exit and split"**. Estella confirmed that it was a solid plan, **"We'll go with your plan. I think it's doable"**. Then they placed themselves just right at the door step, with the door still closed. The sound of people walking can be heard from outside of the room.
-**"I'll take the right, you go left"**, Estella said. Jonathan nodded.
-Jonathan opened the door slowly, pretending he was talking to somebody, all to confuse the enemies. **"So, where are we going to have dinner tonight?"**, he asked with a voice loud enough to be heard by the enemies. Then the walking sound stopped immediately, the corridor fell silent.
+
+Estelle didn't answer, instead she just took a standard Glock 17 from a holster inside of her suit, cocking it in front of me. **"Fine,"** I said, took a handgun from under my desk. It was a custom-made — by me — handgun, 9 mm caliber, ported 5 inch barrel, 21+1 capacity in a double stack magazine.
+
+Estelle raised her eyebrow, **“Do you even know how to shoot? Your parent's file on you didn't show any combat or weapon training”**. 
+
+I took two Banish 45 suppressors from inside my and threw one at her, screwing the other one to my own gun. **“We don't have time for demonstrations and by looking at my surveillance network — the one on my laptop — you should've known that my parents file was wrong”**.
+
+**“I guess you're right”**, Estella reattached her sword on her hip. Jonathan buckled his belt holstering his two handguns at the back. Both of them had finished their battle preparation, albeit short. The red dots shown on the laptop screen can be seen closing in their location, about 40 men strong.
+
+**“Okay, so here's the plan. The corridor is too small for them to advance at the same time ...,"** Jonathan explained the plain in his mind to Estella. The explanation finished with **"… Then we take the back exit and split”**. Estella confirmed that it was a solid plan, **“We'll go with your plan. I think it's doable”**. Then they placed themselves just right at the door step, with the door still closed. The sound of people walking can be heard from outside the room.
+
+**“I'll take the right, you go left,"** Estella said. Jonathan nodded.
+
+Jonathan opened the door slowly, pretending he was talking to somebody, all to confuse the enemies. **“So, where are we going to have dinner tonight?”**, he asked with a voice loud enough to be heard by the enemies. Then the walking sound stopped immediately, the corridor fell silent.
+
 With one step, Jonathan showed himself in front of the enemies.
-At the corridor, two lines of men all dressed black could be seen flanking them left and right. All fully armed with handguns or assault rifle, ready to strike. With a speed that couldn't be seen with human eyes, Jonathan took his guns and aimed left and right at the same time, he immediately fired two silent shots. Both bullets landed right between the front most men's eyes. Estella watched the scene unfold from inside the apartment, wide eyed. ***"I couldn't see his hands just now. Was it my imagination?"***, the question flashed in her mind only to be immediately wiped by a new focus for the next step of the plan.
+
+At the corridor, two lines of men all dressed black could be seen flanking them left and right. All fully armed with handguns or assault rifle, ready to strike. With a speed that couldn't be seen with human eyes, Jonathan took his guns and aimed left and right at the same time, he immediately fired two silent shots. Both bullets landed right between the front most men's eyes. Estella watched the scene unfold from inside the apartment, wide-eyed. ***'I couldn't see his hands just now. Was it my imagination?'***, the question flashed in her mind only to be immediately wiped by a new focus for the next step of the plan.
+
 If the next scene played in slow motion, this is what was happening:
 *Jonathan turned to his left, swiftly reinserted his left handgun into its holster on his back. Estella exited the room with one step and immediately raised her handgun, one shot fired, hitting the second guy from the front. In this situation, both men Jonathan had shot before hasn't fallen to the floor yet. Then Jonathan and Estella simultaneously took a step forward, both caught the dead bodies and used it as shields.*
-Jonathan released three bullets, one bullet each for three heads behind the killed front man, killing them instantly. While Estella has to shield herself completely from bullets fired from two men behind the guy she just killed. Jonathan pushed the dead body he used as shield down the stairs, making the next line of assailants stunned. Without hesitation he took his other handgun again and turned toward Estella, now holding two handgun he shot two guys attacking Estella in one go. **"Estella! Throw the body towards them and climb to the next floor! The corridor is wider there!"**, he shouted. What she need right now was wider room to swing her sword. But Jonathan was taken aback when he saw her listened and immediately followed his direction. Now both of them has set off to the next floor through the stairs at each their sides. Their enemies followed not far back. Jonathan fired one or two bullets ocassionaly to kill the enemies behind him randomly. While Estella was already on the next floor. ***'This corridor is wide enought'***, she said in her mind.
-Estella holstered her handgun and placed her hands each on the hilt and sheath of her sword, took a stance, and closed her eyes, focusing her senses. The front most enemy already aimed their gun at her chest and these events happened at the same second: trigger pulled, sword drawn, her eyes opened. Time seemed to stop when a bullet was released with a loud bang. Estella, who has already drawn her sword managed -- with a precision so high that it seemed nobody in this world can do it -- shfited the bullet's path with her sword. Only to be followed by a high speed slash to the enemy's neck, beheading them. Estella kicked the body so that it fell down on the enemies behind it.
+
+Jonathan released three bullets, one bullet each for three heads behind the killed front man, killing them instantly. While Estella has to shield herself completely from bullets fired from two men behind the guy she just killed. Jonathan pushed the dead body he used as shield down the stairs, making the next line of assailants stunned. Without hesitation, he took his other handgun again and turned toward Estella, now holding two handguns he shot two guys attacking Estella in one go. **“Estella! Throw the body towards them and climb to the next floor! The corridor is wider there!”**, he shouted. What she need right now was wider room to swing her sword. But Jonathan was taken aback when he saw her listened and immediately followed his direction. Now both of them has set off to the next floor through the stairs at each their sides. Their enemies followed not far back. Jonathan fired one or two bullets occasionally to kill the enemies behind him randomly. While Estella was already on the next floor. ***'This corridor is wide enough'***, she said in her mind.
+
+Estella holstered her handgun and placed her hands each on the hilt and sheath of her sword, took a stance, and closed her eyes, focusing her senses. The front most enemy already aimed their gun at her chest and these events happened at the same second: trigger pulled, sword drawn, her eyes opened. Time seemed to stop when a bullet was released with a loud bang. Estella, who has already drawn her sword managed — with a precision so high that it seemed nobody in this world can do it — shifted the bullet's path with her sword. Only to be followed by a high speed slash to the enemy's neck, beheading them. Estella kicked the body so that it fell down on the enemies behind it.
+
 Jonathan arrived at the same floor and witnessed the scene between Estella and her enemy with his own eyes. ***'Impossible'***, he mumbled.
-Said floor was the top most habitable floor, right down the rooftop. On the middle of the floor, stairs leading to the rooftop was on the middle of it. An idea dawned in Jonathan's head after witnessing Estella's prowess.
-**"Estella! Change of plan! step back slowly and go to the roof top!"**, Jonathan shouted.
-**"What?! Okay!"**, Estella answered, confused by the change of plan but alas has no other choice.
-In the following 3 minutes, Estella deflected bullets, slashed the enemies in front of her one by one with scary focus and accuracy. Jonathan one-shot-one-kill his enemies without giving them any chance to step over the stair line. Both of them slowly moved back until their back finally met on the middle of the corridor. Immediately, they ran through the stairs, breached the door, and arrived at the rooftop. Jonathan closed the iron door and jammed it using a small wood beam he found nearby. 
-**"What then?!"**, Estella asked. A loud bang coming from the iron door can be heard, the enemies tried to breach the jammed door.
-**"Then we jump to that"**, Jonathan pointed to somewhere opposite of the door. About 10 meters from the place they stood, some kind of aircraft cockpit could be seen suspended in the air. The weird thing was, there was only the cockpit, no aircraft in sight.
-Estella shifted her gaze to where Jonathan was pointing and immediately got confused at her sight. She rubbed her eyes and looked at it again, still the same view of an aircaft cockpit suspended in the air. **"WHAT IS THAT?!"**, she yelled.
-**"My Hover Jet, its outer skin is transparent"**, Jonathan answered then started running towards the weird hovering cockpit. **"Come on! Daydream later!"**, Jonathan shouted.
-Estella was taken aback, **"O-okay!"**. Then started to run, following Jonathan to the same direction.
+
+Said floor was the top most habitable floor, right down the rooftop. In the middle of the floor, stairs leading to the rooftop was in the middle of it. An idea dawned in Jonathan's head after witnessing Estella's prowess.
+
+**“Estella! Change of plan! Step back slowly and go to the rooftop!”**, Jonathan shouted.
+
+**“What?! Okay!”**, Estella answered, confused by the change of plan, but alas has no other choice.
+
+In the following 3 minutes, Estella deflected bullets, slashed the enemies in front of her one by one with scary focus and accuracy. Jonathan one-shot-one-kill his enemies without giving them any chance to step over the stair line. Both of them slowly moved back until their back finally met in the middle of the corridor. Immediately, they ran through the stairs, breached the door, and arrived at the rooftop. Jonathan closed the iron door and jammed it using a small wood beam he found nearby. 
+
+**“What then?!”**, Estella asked. A loud bang coming from the iron door can be heard, the enemies tried to breach the jammed door.
+
+**“Then we jump to that”**, Jonathan pointed to somewhere opposite of the door. About 10 meters from the place they stood, some kind of aircraft cockpit could be seen suspended in the air. The weird thing was, there was only the cockpit, no aircraft in sight.
+
+Estella shifted her gaze to where Jonathan was pointing and immediately got confused at her sight. She rubbed her eyes and looked at it again, still the same view of an aircraft cockpit suspended in the air. **“WHAT IS THAT?!”**, she yelled.
+
+**“My Hover Jet, its outer skin is transparent,"** Jonathan answered then started running towards the weird hovering cockpit. **“Come on! Daydream later!”**, Jonathan shouted.
+
+Estella was taken aback, **“O-okay!”**. Then started to run, following Jonathan to the same direction.
+
 Jonathan jumped into the weird cockpit, followed by Estella. When both of them landed inside, the Hover Jet closed the door and immediately started to fly higher.
-Their enemies breached the rooftop door but there was no one in sight at the rooftop, as the Hover Jet already reached above the clouds.
-Estella, panting from the fight in the apartment building, looked around her. What she saw was something that didn't make sense at all. Interior filled with consoles, modules, glass boxes, and unfamiliar shapes she didn't recognize at all. Most of the things she saw has some kind of glowing white line patterns. She saw Jonathan walked toward two seats in front and took a seat on the left.
-**"What is this?"**, Estella repeated the question she asked back at the rooftop. Jonathan didn't answer. Then she moved her gaze, focusing on Jonathan, **"who are you?"**.
+
+Their enemies breached the rooftop door, but there was no one in sight at the rooftop, as the Hover Jet already reached above the clouds.
+
+Estella, panting from the fight in the apartment building, looked around her. What she saw was something that didn't make sense at all. Interior filled with consoles, modules, glass boxes, and unfamiliar shapes she didn't recognize. Most of the things she saw has some kind of glowing white line patterns. She saw Jonathan walked toward two seats in front and took a seat on the left.
+
+**“What is this?”**, Estella repeated the question she asked back at the rooftop. Jonathan didn't answer. Then she moved her gaze, focusing on Jonathan, **“who are you?”**.
+
