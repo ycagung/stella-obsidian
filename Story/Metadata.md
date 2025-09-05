@@ -1,7 +1,7 @@
 ## Star-Born Fox
 *Sci-fi, action, romance*
 
-## Season 1
+## Season 1 - The Fox
 
 ### Main Conflicts
 1. **Jonathan's Secrecy**
@@ -12,9 +12,9 @@
 	Jonathan fell in love at the first sight of Estelle's graceful swordsmanship. Ironically, his genius mind couldn't comprehend what was in his heart.
 4. **I Want a Raise!**
 	Living with Jonathan as his secret security forced her to see Jonathan's inner world in more ways than one. Time after time, she knows him better than anyone, and the real Jonathan made her fall in love for him.
-	
+5. **Who's Attacking Me?**
+	Jonathan was attacked by a mysterious group on the first day she met Estella. But whatever they did to find the culprit, they never found one.
 
 ### Secondary Conflicts
 1. **Samantha's Turmoil**
 2. **What Will Happen to The Jones?**
-3. 

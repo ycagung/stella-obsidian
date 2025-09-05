@@ -59,52 +59,54 @@ Though she lived for missions and paychecks, Estella carried with her the silent
 	- **Height**: 5 foot 7 inches
 
 ### Personality
-- Core traits
-	- **Temperament**: Cold, a bit shy
-	- **Morality**: Mercenary mindset, mostly neutral, ruthless in combat
-	- **Confidence**: Self-assured
+- **Core Traits**
+	- **Temperament**: Stoic, emotionally restrained, with cold detachment masking unprocessed pain.
+	- **Morality**: Pragmatic neutrality; she sees morality as a tool rather than a compass.
+	- **Confidence**: Unyielding outward confidence, though at times it’s a shield for deep-rooted doubt.
 
 - **Behavior & Habits**
-	- **Speech Style**: Mostly cold and expressionless. If she shows any expression, that usually means one of two things. Either the situation is completely absurd or she's fond of the person she's talking to -which is still categorized as an absurd situation considering her overall personality
-	- **Decision-Making**: Disciplined, calculated but a bit reckless
-	- **Social Behavior**: Guardian, fighter
-	- **Daily Habits**: Punctual, ordered schedule, one of her usual schedule is gazing at stars at night.
+	- **Speech Style**: Minimalist and cutting, rarely wasting words. Displays emotion only in rare cracks—sarcasm when absurdity overwhelms her, or softness toward Jonathan (which she despises herself for).
+	- **Decision-Making**: Disciplined and tactical, but prone to reckless, instinctive action when her trauma is triggered.
+	- **Social Behavior**: A lone-wolf guardian. She fights not out of loyalty but survival instinct.
+	- **Daily Habits**: Hyper-disciplined routines: weapon training, physical regimen, strict mealtimes. One ritual never breaks—gazing at stars nightly, seeking silent solace in what she believes is her "destined path."
 
 - **Motivations & Values**
-	- **Goals**: Living in a secluded house with a clear night sky view. Ironically, [["The House"]] – where she'll live after joining Jonathan's side – is the embodiment of her dream house. So, now she's searching for a new purpose. 
-	- **Beliefs**: 
-		- Survival of the fittest
-		- Some lives are expendable
-		- Live by the sword
-		- Destiny will lead our path
+	- **Goals**: Once dreamed of a secluded home beneath a starlit sky, but Jonathan’s "House" already fulfills this. Now haunted by the emptiness of achieving her dream too soon, she searches for a **new meaning** beyond survival.
+	- **Beliefs**:
+	    - “Strength decides survival.”
+	    - “Lives can be currency.”        
+	    - “The sword chooses who deserves to live.”
+	    - “Destiny is not kind, but it is inevitable.”
 	- **Priorities**:
-		1. Her mission
-		2. Her paycheck
+	    1. Her mission (survival or contract).
+	    2. Her pay (pragmatic motivator).
+	    3. Jonathan (an unspoken, conflicting priority growing inside her).
 
-- **Strengths and Weaknesses**
-	- **Strengths**: 
-		- Trained swordsmen
-		- Disciplined
-		- Calmness under heavy situation
-		- Beautiful face and figure
+- **Strengths & Weaknesses**
+	- **Strengths**:
+	    - Expert swordswoman, brutally efficient.
+	    - Iron discipline in combat.
+	    - Fearless calm under fire.
+	    - Beauty that disarms, though she never leverages it intentionally.
 	- **Weaknesses**:
-		- Traumatic childhood memories where she saw her parents killed in front of her
-		- A bit of arrogance when she's in advantageous position
+	    - Haunted by witnessing her parents’ murder, fueling repressed rage.
+	    - Overconfidence when her strength tips the scale, leading to overreach.
+	    - Difficulty accepting emotional vulnerability, especially around Jonathan.
 
 - **Emotional Intelligence**
-	- **Stages of Stress Reactions**:
-		- **Mild**: Unaffected
-		- **Medium**: Calm and calculating
-		- **Heavy**: Agitated, reckless
-		- **Crushing**: Unable to move and think
-	- **Treatments to Others**:
-		- **Partner**: Ready to split the moon open at a moment notice
-		- **Family**: Nonexistent
-		- **Friends**: Cold
-		- **Colleagues**: Cold and arrogant
-		- **Unrelated people**: Indifferent
+	- **Stress Responses**:
+	    - _Mild_: Flat affect, appears unaffected.
+	    - _Moderate_: Clinical focus, sharp calculation.
+	    - _Severe_: Reckless bursts, sometimes lethal overkill.
+	    - _Overwhelming_: Paralyzed by resurfacing childhood trauma—frozen, unable to act.
+	- **Treatment of Others**:
+	    - **Partner (Jonathan)**: Paradoxical—ready to tear the world apart for him, yet pushes him away with coldness.
+	    - **Family**: Dead, and she does not entertain surrogate replacements.
+	    - **Friends**: Keeps them at blade’s length.
+	    - **Colleagues**: Dismissive, often arrogant.
+	    - **Strangers**: Indifferent, unless survival or mission dictates otherwise.
 
-- **Reputation**: 
-	- **Colleagues**: Feared
-	- **Friends**: Feared
-	- **Family**: Nonexistent
+- **Reputation**
+	- **Colleagues**: Feared for her precision and ruthlessness.
+	- **Friends**: Few, and those who exist call her dangerous.
+	- **Family**: A void. Her only “family” now is Jonathan, whether she admits it or not.

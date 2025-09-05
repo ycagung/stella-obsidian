@@ -1,44 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "path:Story  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:Story/Chapters/En  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Story/Chapters/Id  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"Story/Places of Events\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 65443
-      }
-    }
-  ],
-  "collapse-display": true,
+  "colorGroups": [],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.7590595703125,
-  "lineSizeMultiplier": 0.96935123697917,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.38525390625,
-  "repelStrength": 14.892578125,
-  "linkStrength": 0.583170572916667,
-  "linkDistance": 260,
-  "scale": 0.2542743897834346,
+  "centerStrength": 0.380208333333333,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.1782446125405822,
   "close": true
 }
